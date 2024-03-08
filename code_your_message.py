@@ -45,5 +45,8 @@ else:
     else:
       nwords.append(word[::-1])
   print(" ".join(nwords))
+
+
+#credit codewithharry
   
   
