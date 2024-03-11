@@ -19,16 +19,16 @@
 </div>
 <div>
   <h4>For Code your message</h4>
-  <p>Enter message =welcome to my repo\n
-1 for Coding or 0 for Decoding 1\n
-True\n
+  <p>Enter message =welcome to my repo<br>
+1 for Coding or 0 for Decoding 1<br>
+True<br>
 xskelcomewgev ot ym pyseportts</p>
 </div>
 <div>
   <h4>For Decode your message</h4>
-  <p>Enter message =xskelcomewgev ot ym pyseportts\n
-1 for Coding or 0 for Decoding 0\n
-False\n
+  <p>Enter message =xskelcomewgev ot ym pyseportts<br>
+1 for Coding or 0 for Decoding 0<br>
+False<br>
 welcome to my repo</p>
 </div>
 
