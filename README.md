@@ -18,17 +18,17 @@
   <img height="250" src="https://i.ytimg.com/vi/xzlfXSBzhx8/maxresdefault.jpg"  />
 </div>
 <div>
-  <h4>For Code your message</h4>h4>
-  <p>Enter message =welcome to my repo
-1 for Coding or 0 for Decoding 1
-True
+  <h4>For Code your message</h4>
+  <p>Enter message =welcome to my repo\n
+1 for Coding or 0 for Decoding 1\n
+True\n
 xskelcomewgev ot ym pyseportts</p>
 </div>
 <div>
   <h4>For Decode your message</h4>
-  <p>Enter message =xskelcomewgev ot ym pyseportts
-1 for Coding or 0 for Decoding 0
-False
+  <p>Enter message =xskelcomewgev ot ym pyseportts\n
+1 for Coding or 0 for Decoding 0\n
+False\n
 welcome to my repo</p>
 </div>
 
