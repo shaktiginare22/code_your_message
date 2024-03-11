@@ -15,7 +15,21 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.ytimg.com/vi/xzlfXSBzhx8/maxresdefault.jpg"  />
+  <img height="250" src="https://i.ytimg.com/vi/xzlfXSBzhx8/maxresdefault.jpg"  />
+</div>
+<div>
+  <h4>For Code your message</h4>h4>
+  <p>Enter message =welcome to my repo
+1 for Coding or 0 for Decoding 1
+True
+xskelcomewgev ot ym pyseportts</p>
+</div>
+<div>
+  <h4>For Decode your message</h4>
+  <p>Enter message =xskelcomewgev ot ym pyseportts
+1 for Coding or 0 for Decoding 0
+False
+welcome to my repo</p>
 </div>
 
 ###
